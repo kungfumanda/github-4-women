@@ -1,0 +1,1 @@
+Na parte de adição de arquivo via CLI, aproveitei para colocar a imagem do primeiro commit dentro de uma pasta chamada "Assets"
